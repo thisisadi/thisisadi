@@ -1,4 +1,4 @@
-Hey, I’m Aditya 👋
+## Hey, I’m Aditya 👋
 
 I’m a Computer Science graduate student at NYU with a background in information security, backend systems, and applied ML. I enjoy building scalable systems, experimenting with modern AI models, and turning half-baked ideas into working products.
 
