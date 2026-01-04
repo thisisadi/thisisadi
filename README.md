@@ -1,52 +1,35 @@
-## Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> this is Aditya! 
-<a href="https://www.linkedin.com/in/aditya-jha-b39842217/">
-  <img align="left" alt="Aditya's Linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
+Hey, I’m Aditya 👋
 
-  <a href="mailto:adityajha010202@gmail.com">
-  <img align="left"  width="27px" src="https://www.freepnglogos.com/uploads/logo-gmail-png/logo-gmail-png-contact-machine-learning-phd-student-reasoning-and-25.png" />
-  
-  <a href="https://discordapp.com/users/773804246746267668/">
-  <img align="left" alt="Aditya's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-</a>
+I’m a Computer Science graduate student at NYU with a background in information security, backend systems, and applied ML. I enjoy building scalable systems, experimenting with modern AI models, and turning half-baked ideas into working products.
 
+Currently focused on backend engineering, cloud-native systems, and ML-driven applications.
 
+⸻
 
+👨‍💻 What I Do
+	•	🧠 Work at the intersection of backend engineering & AI
+	•	⚙️ Build APIs, distributed systems, and data-heavy applications
+	•	☁️ Comfortable across AWS, GCP, Azure, Docker, Kubernetes
+	•	🎵 Recently explored scaling laws for LLMs on music data
 
-![](https://visitor-badge.glitch.me/badge?page_id=thisisadi.thisisadi)
+⸻
 
+🏢 Experience Snapshot
+	•	Systems Engineer @ Tata Consultancy Services
+Data analysis, SLA monitoring, Power BI dashboards, AppDynamics observability
+	•	R&D Software Engineering Intern @ Sekyurity AI
+Automated API testing, cloud integrations, infra tooling, ML dataset generation
+	•	SDE Intern @ Motorq
+Kubernetes cron jobs, cloud cost optimization, Azure security PoCs
+	•	Freelance Backend Developer @ KOTH Gaming
+High-performance APIs, auth systems, leaderboards, AWS deployments
 
-## I'm a student and a dreamer from Delhi, India. Currently, I am studying CSE with Specialization in Cyber Security at VIT, Vellore.
+⸻
 
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other creators to participate in events and hacks!
-- 🥅 2021 Goals: Work on Android development 
+📫 Let’s Connect
+- 💼 [LinkedIn](https://www.linkedin.com/in/aditya-jha-b39842217/)
+- 📧 [Email](mailto:adityajha010202@gmail.com)
 
+⸻
 
-## Spotify Playing 🎧
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/t1q0ktg7s4s6mdchlfai28oy8)
-
- <br>
-
-
-**Languages and Tools:**  
-
-
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-
-
-
-<br>
-
- 
-## 📈 My GitHub Stats
-
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=thisisadi&show_icons=true&theme=gotham" alt="thisisadi" />
-
-
-
-
+Always curious, occasionally overengineering, and constantly learning.
