@@ -9,5 +9,3 @@ Currently focused on backend engineering, cloud-native systems, and ML-driven ap
 - 🧠 Work at the intersection of backend engineering & AI
 - ⚙️ Build APIs, distributed systems, and data-heavy applications
 - ☁️ Comfortable across AWS, GCP, Azure, Docker, Kubernetes
-
-Always curious, occasionally overengineering, and constantly learning!
